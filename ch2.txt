@@ -1,0 +1,5 @@
+this is ch2 for checking version 
+vim editor is :q quit
+:wq save and quit
+and so on
+
