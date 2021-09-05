@@ -1,0 +1,9 @@
+git commant 
+git add .   for adding 
+git log for status
+git commit for update in git
+git status to check local status
+git init  to inisalisd git
+git branch branch branch name to create a branch
+git checkout branchname to switch branch
+
