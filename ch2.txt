@@ -3,3 +3,10 @@ vim editor is :q quit
 :wq save and quit
 and so on
 
+
+******************
+branching in git 
+1. type: git branch branch "to creat a branch"
+2. to switch between branches type:git ckeckout branch name
+3. to check where or in which branch currently you working 
+type: git branch
